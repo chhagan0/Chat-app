@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#92EFFD"
+
+    tools:context=".HomeActivity">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="180sp"
+        android:background="@drawable/gradientcolor"
+        >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="130dp"
+        android:orientation="horizontal">
+
+
+        <TextView
+            android:id="@+id/hi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:fontFamily="@font/archivo_semibold"
+
+            android:text="CHATS"
+            android:textColor="#FFAB00"
+
+            android:textSize="29dp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="UserName"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:id="@+id/usernameshow"
+            android:textSize="22dp"
+            android:fontFamily="@font/calibri"/>
+    </LinearLayout>
+    </RelativeLayout>
+<com.google.android.material.card.MaterialCardView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/cardview"
+android:layout_marginTop="10dp"
+
+    android:backgroundTint="#FFFFFF"
+    >
+<androidx.recyclerview.widget.RecyclerView
+    android:layout_width="match_parent"
+    android:layout_marginTop="50dp"
+    android:layout_height="match_parent"
+   tools:listitem="@layout/chatdesign"
+    android:layout_marginHorizontal="9dp"
+    android:id="@+id/mRes"/>
+</com.google.android.material.card.MaterialCardView>
+
+
+</LinearLayout>

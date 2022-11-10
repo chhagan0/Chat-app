@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="#EFDADA"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Question">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center"
+
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+
+
+        <TextView
+            android:fontFamily="@font/gotham"
+            android:textColor="#BD0000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Question and Answer"
+            android:textAlignment="center"
+            android:textSize="19dp" />
+
+        <TextView
+            android:textColor="#000000"
+            android:fontFamily="@font/gotham"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name user"
+            android:id="@+id/getusername"
+            android:layout_marginLeft="3dp"
+            android:textAlignment="center"
+            android:textSize="19dp"/>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ask Any Question for expert and get Solution your Problem"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:fontFamily="@font/calibri"/>
+<View
+    android:layout_width="match_parent"
+    android:layout_height="1sp"
+    android:background="@android:color/darker_gray"
+    android:layout_marginTop="19dp"
+    android:layout_marginBottom="10dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+
+        android:layout_marginTop="6dp"
+        android:layout_height="wrap_content">
+        <androidx.recyclerview.widget.RecyclerView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="6dp"
+            android:layout_marginRight="6dp"
+            tools:listitem="@layout/chatdesign"/>
+
+
+
+
+    </LinearLayout>
+
+
+
+
+
+
+</LinearLayout>

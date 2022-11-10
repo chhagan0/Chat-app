@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800229663175",
+    "project_id": "vivd-c9ae7",
+    "storage_bucket": "vivd-c9ae7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800229663175:android:ee46259d9ed862e49e39e2",
+        "android_client_info": {
+          "package_name": "com.example.vivd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800229663175-r78lduostunp8p7ofud7u89s9h60tn8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAn_975fdCOmnOr1oU31tuP7P1yLNSHMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800229663175-r78lduostunp8p7ofud7u89s9h60tn8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

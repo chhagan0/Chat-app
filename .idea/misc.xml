@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Vivd2/app/src/main/res/drawable-v24/buttonshape.xml" value="0.1915" />
+        <entry key="..\:/Vivd2/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.1915" />
+        <entry key="..\:/Vivd2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1915" />
+        <entry key="..\:/Vivd2/app/src/main/res/drawable/background_shape.xml" value="0.1915" />
+        <entry key="..\:/Vivd2/app/src/main/res/drawable/bluecolor.xml" value="0.191" />
+        <entry key="..\:/Vivd2/app/src/main/res/drawable/cardviewdesign.xml" value="0.1915" />
+        <entry key="..\:/Vivd2/app/src/main/res/drawable/gradientcolor.xml" value="0.1915" />
+        <entry key="..\:/Vivd2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.167" />
+        <entry key="..\:/Vivd2/app/src/main/res/drawable/image.xml" value="0.2425" />
+        <entry key="..\:/Vivd2/app/src/main/res/drawable/recieve_drawable.xml" value="0.1915" />
+        <entry key="..\:/Vivd2/app/src/main/res/drawable/send_drawable.xml" value="0.1915" />
+        <entry key="..\:/Vivd2/app/src/main/res/drawable/send_msg.xml" value="0.1805" />
+        <entry key="..\:/Vivd2/app/src/main/res/drawable/user.xml" value="0.1915" />
+        <entry key="..\:/Vivd2/app/src/main/res/layout/activity_chat_screen.xml" value="0.264" />
+        <entry key="..\:/Vivd2/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Vivd2/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Vivd2/app/src/main/res/layout/activity_otp_recieved.xml" value="0.2" />
+        <entry key="..\:/Vivd2/app/src/main/res/layout/activity_question.xml" value="0.264" />
+        <entry key="..\:/Vivd2/app/src/main/res/layout/activity_setip_profile.xml" value="0.264" />
+        <entry key="..\:/Vivd2/app/src/main/res/layout/chatdesign.xml" value="0.4739208633093525" />
+        <entry key="..\:/Vivd2/app/src/main/res/layout/delete_layout.xml" value="0.264" />
+        <entry key="..\:/Vivd2/app/src/main/res/layout/recieve_msg.xml" value="0.4" />
+        <entry key="..\:/Vivd2/app/src/main/res/layout/send_msg.xml" value="0.264" />
+        <entry key="..\:/Vivd2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.167" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
